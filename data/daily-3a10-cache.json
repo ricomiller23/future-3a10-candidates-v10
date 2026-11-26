@@ -1,0 +1,61 @@
+{
+  "lastRunEST": "11/25/2026, 7:01:23 AM",
+  "scheduledTime": "8:00 AM EST Daily",
+  "totalScanned": 6,
+  "candidates": [
+    {
+      "ticker": "CETY",
+      "companyName": "Clean Energy Technologies, Inc.",
+      "cik": "0001329606",
+      "exchange": "Nasdaq",
+      "lastFilingDate": "2026-11-16",
+      "status": "ANALYZED_OK",
+      "scannedAt": "2026-11-25T12:01:20.521Z"
+    },
+    {
+      "ticker": "AREB",
+      "companyName": "AMERICAN REBEL HOLDINGS INC",
+      "cik": "0001648087",
+      "exchange": "OTC",
+      "lastFilingDate": "2026-11-16",
+      "status": "ANALYZED_OK",
+      "scannedAt": "2026-11-25T12:01:20.521Z"
+    },
+    {
+      "ticker": "RGBP",
+      "companyName": "Regen BioPharma Inc",
+      "cik": "0001589150",
+      "exchange": "OTC",
+      "lastFilingDate": "2026-11-23",
+      "status": "ANALYZED_OK",
+      "scannedAt": "2026-11-25T12:01:20.521Z"
+    },
+    {
+      "ticker": "TOON",
+      "companyName": "Kartoon Studios, Inc.",
+      "cik": "0001355848",
+      "exchange": "NYSE",
+      "lastFilingDate": "2026-11-16",
+      "status": "ANALYZED_OK",
+      "scannedAt": "2026-11-25T12:01:20.521Z"
+    },
+    {
+      "ticker": "JTAI",
+      "companyName": "Jet.AI Inc.",
+      "cik": "0001861622",
+      "exchange": "Nasdaq",
+      "lastFilingDate": "2026-11-19",
+      "status": "ANALYZED_OK",
+      "scannedAt": "2026-11-25T12:01:20.521Z"
+    },
+    {
+      "ticker": "VCIG",
+      "companyName": "VCI Global Ltd",
+      "cik": "0001930510",
+      "exchange": "Nasdaq",
+      "lastFilingDate": "2026-11-03",
+      "status": "ANALYZED_OK",
+      "scannedAt": "2026-11-25T12:01:20.521Z"
+    }
+  ]
+}
